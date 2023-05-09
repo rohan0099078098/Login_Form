@@ -1,0 +1,16 @@
+
+.ulist{
+border: 2px solid black;
+list-style: square;
+}
+
+.olist{
+border: 2px solid black;
+width: 100px;
+background-color: yellow;
+}
+table{
+	padding: 10px 10px;
+	border-spacing: 0px;
+	border-collapse: 100px;
+}
